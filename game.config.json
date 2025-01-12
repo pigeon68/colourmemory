@@ -1,0 +1,23 @@
+{
+    "colors": {
+        "START": "#3c62a7",
+        "GAME_BUTTONS": [
+            "blue",
+            "green",
+            "red",
+            "#fff200"
+        ],
+        "PLAY_AGAIN": "#3c62a7",
+        "MENU": "#999",
+        "TEXT": "#fff"
+    },
+    "text": {
+        "GAME_NAME": "Color Memory",
+        "START": "START",
+        "GAME_OVER": "Game Over",
+        "MENU": "Menu",
+        "MAX_SCORE": "Best",
+        "PLAY_AGAIN": "Play again",
+        "CORRECT_BUTTON_MSG": "It was"
+    }
+}
